@@ -1,0 +1,3 @@
+1)split into diffrent files, main.py, api.py, bl.py
+2)ensure input validation
+3)documantation for each function, include description, args, what the function does, and what it returns
